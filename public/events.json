@@ -1,0 +1,136 @@
+[
+    {
+        "id": 1,
+        "title": "Cybersecurity Training Bootcamp",
+        "pic": "https://i.ibb.co/Bjd5x6N/Cybersecurity-Training.jpg",
+        "description": "Join our comprehensive 4-week Cybersecurity Training Bootcamp to master the skills needed to protect digital assets and secure information systems. In this intensive program, you'll delve into Module 1: Introduction to Cybersecurity, where you'll learn the fundamentals. Then, advance to Module 2: Network Security and Firewalls to gain expertise in protecting networks. Move on to Module 3: Ethical Hacking Techniques to understand the offensive side of cybersecurity. In Module 4: Incident Response and Recovery, you'll learn how to handle security incidents effectively. Finally, in Module 5: Certification Preparation, get ready for industry-standard certifications.",
+        "duration": "4 weeks",
+        "price": "$999",
+        "event_materials": [
+            "Cybersecurity Handbook",
+            "Penetration Testing Toolkit",
+            "Security Best Practices Guide",
+            "Case Studies",
+            "Certification Exam Prep"
+        ],
+        "course_content": [
+            "Module 1: Introduction to Cybersecurity",
+            "Module 2: Network Security and Firewalls",
+            "Module 3: Ethical Hacking Techniques",
+            "Module 4: Incident Response and Recovery",
+            "Module 5: Certification Preparation"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Cloud Computing Webinar Series",
+        "pic": "https://i.ibb.co/bFDBF61/Cloud-Computing.jpg",
+        "description": "Embark on a journey to explore the latest trends and technologies in cloud computing with our informative Cloud Computing Webinar Series. Over the course of 4 webinars, each lasting 1 hour, you'll gain insights into Webinar 1: Introduction to Cloud Computing, which lays the foundation. Webinar 2: Cloud Service Models (IaaS, PaaS, SaaS) deepens your understanding of service models. In Webinar 3: Cloud Security and Compliance, you'll explore cloud security principles. Transition to Webinar 4: Hands-on Cloud Labs for practical experience, and conclude with Webinar 5: Cloud Migration Strategies for real-world application.",
+        "duration": "4 webinars (1 hour each)",
+        "price": "Free",
+        "event_materials": [
+            "Webinar Recordings",
+            "Cloud Service Providers Comparison",
+            "Hands-on Labs",
+            "Cloud Adoption Strategy",
+            "Q&A Session Transcripts"
+        ],
+        "course_content": [
+            "Webinar 1: Introduction to Cloud Computing",
+            "Webinar 2: Cloud Service Models (IaaS, PaaS, SaaS)",
+            "Webinar 3: Cloud Security and Compliance",
+            "Webinar 4: Hands-on Cloud Labs",
+            "Webinar 5: Cloud Migration Strategies"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "AI and Machine Learning Workshop",
+        "pic": "https://i.ibb.co/0jTHy3f/AI-and-Machine-Learning.jpg",
+        "description": "Immerse yourself in the world of artificial intelligence and machine learning in our 2-day AI and Machine Learning Workshop. On Day 1, dive into Workshop Session 1: Introduction to AI and Machine Learning. Learn about the basics of AI. Transition to Day 1 - Workshop Session 2: Supervised and Unsupervised Learning to grasp fundamental machine learning techniques. On Day 2, join Workshop Session 3: Deep Learning and Neural Networks to explore advanced concepts. In Workshop Session 4: Natural Language Processing, you'll delve into NLP, and finally, in Workshop Session 5: AI Applications Workshop, you'll work on practical applications of AI.",
+        "duration": "2 days",
+        "price": "$299",
+        "event_materials": [
+            "Workshop Handbook",
+            "Machine Learning Frameworks",
+            "Real-world AI Applications",
+            "Coding Exercises",
+            "AI Research Papers"
+        ],
+        "course_content": [
+            "Day 1 - Workshop Session 1: Introduction to AI and Machine Learning",
+            "Day 1 - Workshop Session 2: Supervised and Unsupervised Learning",
+            "Day 2 - Workshop Session 3: Deep Learning and Neural Networks",
+            "Day 2 - Workshop Session 4: Natural Language Processing",
+            "Day 2 - Workshop Session 5: AI Applications Workshop"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Data Science Certification Program",
+        "pic": "https://i.ibb.co/qsZSKM6/Data-Science.jpg",
+        "description": "Become a certified data scientist and unlock the world of data analysis with our comprehensive 12-week Data Science Certification Program. In Week 1: Introduction to Data Science, you'll learn the basics. Progress to Week 2: Data Cleaning and Preprocessing, where you'll master data preparation. In Week 3: Statistical Analysis and Data Visualization, explore data visualization techniques. Weeks 4 and 12 focus on advanced machine learning techniques and your Capstone Data Science Project, respectively.",
+        "duration": "12 weeks",
+        "price": "$1,199",
+        "event_materials": [
+            "Course Syllabus",
+            "Data Science Tools",
+            "Data Visualization Examples",
+            "Data Analysis Projects",
+            "Certification Exam Prep"
+        ],
+        "course_content": [
+            "Week 1: Introduction to Data Science",
+            "Week 2: Data Cleaning and Preprocessing",
+            "Week 3: Statistical Analysis and Data Visualization",
+            "Week 4: Machine Learning and Predictive Analytics",
+            "Week 12: Capstone Data Science Project"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "IT Project Management Seminar",
+        "pic": "https://i.ibb.co/jHr7RZ9/IT-Project-Management.jpg",
+        "description": "Enhance your project management skills with a focus on IT projects in our 1-day IT Project Management Seminar. During Session 1: Project Initiation and Planning, you'll lay the groundwork. Transition to Session 2: Agile and Scrum in IT Projects to explore agile methodologies. In Session 3: Risk Management and Quality Assurance, delve into risk assessment and quality control. Session 4: IT Project Execution and Monitoring covers project execution, and Session 5: Project Closure and Lessons Learned concludes the seminar.",
+        "duration": "1 day",
+        "price": "$149",
+        "event_materials": [
+            "Seminar Presentation Slides",
+            "Project Management Templates",
+            "IT Project Case Studies",
+            "Agile Methodology Guide",
+            "PM Certification Info"
+        ],
+        "course_content": [
+            "Session 1: Project Initiation and Planning",
+            "Session 2: Agile and Scrum in IT Projects",
+            "Session 3: Risk Management and Quality Assurance",
+            "Session 4: IT Project Execution and Monitoring",
+            "Session 5: Project Closure and Lessons Learned"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "DevOps Training Program",
+        "pic": "https://i.ibb.co/bRzWhc8/DevOps.jpg",
+        "description": "Elevate your DevOps skills in our 6-week DevOps Training Program. Week 1 introduces you to DevOps and CI/CD. In Week 2, delve into Infrastructure as Code (IaC). Transition to Week 3: Containerization with Docker, followed by Week 4: Orchestration with Kubernetes. In Week 5, explore DevOps best practices, and Week 6 focuses on DevOps case studies and certification preparation.",
+        "duration": "6 weeks",
+        "price": "$799",
+        "event_materials": [
+            "DevOps Handbook",
+            "CI/CD Pipeline Setup Guide",
+            "Infrastructure as Code Examples",
+            "DevOps Tools Overview",
+            "Certification Exam Study Materials"
+        ],
+        "course_content": [
+            "Week 1: Introduction to DevOps and CI/CD",
+            "Week 2: Infrastructure as Code (IaC)",
+            "Week 3: Containerization with Docker",
+            "Week 4: Orchestration with Kubernetes",
+            "Week 5: DevOps Best Practices",
+            "Week 6: DevOps Case Studies",
+            "Week 7: DevOps Certification Preparation"
+        ]
+    }
+]
